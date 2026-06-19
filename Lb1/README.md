@@ -2,7 +2,8 @@
 
 Готовый сайт можно посмотреть здесь:
 [https://prog6.sourcecraft.site/lb1/](https://prog6.sourcecraft.site/lb1/)
-
+Ссылка на репозиторий 
+[https://sourcecraft.dev/prog6/lb1/browse/.sourcecraft/ci.yaml?rev=main&range=l4c12l4c12](https://sourcecraft.dev/prog6/lb1/browse/.sourcecraft/ci.yaml?rev=main&range=l4c12l4c12)
 ## О чём этот проект
 
 Этот сайт сделан с помощью генератора статических сайтов Hugo.
